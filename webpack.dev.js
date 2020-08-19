@@ -13,7 +13,7 @@ module.exports = merge(common, {
             index: '/page-web/index.html', // 重定向url
         },
         open: true, // 打开浏览器，加载页面
-        openPage: 'page-web/page/vis', // 加载页面的url
+        openPage: 'page-web/home', // 加载页面的url
         hot: true,
         host: '0.0.0.0',
         useLocalIp: true, // 打开浏览器后用自己ip显示页面

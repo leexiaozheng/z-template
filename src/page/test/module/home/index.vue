@@ -1,6 +1,8 @@
 <template>
     <div class="home">
         vue + vuex + vue-router + axios + moment + mock + echarts
+        <br>
+        my name is <span>{{name}}</span>
     </div>
 </template>
 <script>
